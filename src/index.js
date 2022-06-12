@@ -14,7 +14,7 @@ var chart = createChart(document.body, {
   },
   layout: {
     backgroundColor: "#131722",
-    textColor: "#d1d4dc"
+    textColor: "#d1d4dd"
   },
   grid: {
     vertLines: {
